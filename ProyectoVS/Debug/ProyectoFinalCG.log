@@ -1,0 +1,12 @@
+﻿  Final.cpp
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\include\shader_m.h(44): warning C4101: 'e': variable local sin referencia
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\include\modelanim.h(104): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\include\modelanim.h(520): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\final.cpp(810): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\final.cpp(811): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\final.cpp(815): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\final.cpp(816): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\final.cpp(818): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\final.cpp(819): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\fernando\desktop\proyectofinalcg\proyectofinalcg\final.cpp(826): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  ProyectoFinalCG.vcxproj -> C:\Users\Fernando\Desktop\ProyectoFinalCG\Debug\ProyectoFinalCG.exe
